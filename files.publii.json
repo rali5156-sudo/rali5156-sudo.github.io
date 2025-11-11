@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "d9401a9d08933864a49b493a0dd0edef"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "977688d850d2c29e8c9248c896ee6286"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "83689d58a476b410c12e0468af6ff57f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "819058825e07ac3a088e9755e229d44e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "498869c45ce31e9c7e3b91e644a72264"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-mastering-quranic-study-for-all-ages",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-mastering-quranic-study-for-all-ages/index.html",
+        "type": "file",
+        "md5": "f4191abcbd17ca10f60a53247e67b4df"
+    },
+    {
+        "path": "learn-quran-a-modern-approach-to-mastering-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-modern-approach-to-mastering-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "72ac8c41cf55ecabdf7c945925e9c45c"
+    },
+    {
+        "path": "learn-quran-your-essential-path-to-quranic-knowledge-and-meaningful-worship",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-your-essential-path-to-quranic-knowledge-and-meaningful-worship/index.html",
+        "type": "file",
+        "md5": "e86d419fe10f706b9a5bea9108464670"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-15.jfif",
+        "type": "file",
+        "md5": "60cc93d57110b3a8fc940154fd1a8398"
+    },
+    {
+        "path": "quran-reading-classes-online-a-modern-solution-for-learning-the-book-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-a-modern-solution-for-learning-the-book-of-allah/index.html",
+        "type": "file",
+        "md5": "6695c4cd0a736650255f9bfc5e055e57"
+    },
+    {
+        "path": "quran-reading-classes-online-the-smart-way-to-build-a-strong-quranic-foundation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-the-smart-way-to-build-a-strong-quranic-foundation/index.html",
+        "type": "file",
+        "md5": "b1ce5cefe0821d88d612d1bb1fa78f4c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "02659bbc4b32c2f6fc0820fc979cdbea"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "af9d4a17741eb3db0ed788b7ac206d08"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "405804a3e18ea5e4b7bbd1f9331e5549"
+    }
+]
